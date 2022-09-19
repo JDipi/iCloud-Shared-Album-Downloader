@@ -34,3 +34,6 @@ ___
 
 ### 3. To see download progress and errors, open the developer console by pressing <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd>
    - <img src="https://user-images.githubusercontent.com/48573618/190950719-912219ee-cdeb-4c09-abc0-ca2675a83e05.png" width="400" />
+   
+### 4. Once the download is complete, navigate to your default download directory. The media will be in a self-titled folder.
+   - <img src="https://user-images.githubusercontent.com/48573618/190951299-d41c5788-8035-422b-b48c-d5f915d987ae.png" width="150" />
