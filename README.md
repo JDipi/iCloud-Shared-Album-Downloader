@@ -1,6 +1,6 @@
 # iCloud-Shared-Album-Downloader
 ## By JDipi
-### Credit to [@cvscarlos](https://github.com/cvscarlos)'s [iCloud API](https://github.com/cvscarlos/iCloud-Album-Downloader/blob/gh-pages/index.html#L27), which is based off of [ICloud-Shared-Album](https://github.com/ghostops/ICloud-Shared-Album) by [@ghostops](https://github.com/ghostops)
+### Credit to [@cvscarlos](https://github.com/cvscarlos)'s [iCloud API](https://github.com/cvscarlos/iCloud-Album-Downloader/blob/917b7a9ee752536e6ad4d0c9f4340b8af50a4800/index.html#L27), which is based off of [ICloud-Shared-Album](https://github.com/ghostops/ICloud-Shared-Album) by [@ghostops](https://github.com/ghostops)
 ___
 Downloads public iCloud shared albums
 
